@@ -1,5 +1,0 @@
-botasaurus
-botasaurus-server
-dateutils
-lxml
-regex
